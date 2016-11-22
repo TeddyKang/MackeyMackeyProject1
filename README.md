@@ -11,9 +11,9 @@
   <h3>Milestone #1:November 18th, 2016 </h3>
   <strong>Goal:</strong> You should have solid planning done by the end of this milestone.
   <ul>
-    <li> - Create different classes and Arraylist. </li>
-    <li> - Use boolean to move around a square and make a movement smooth.</li>
-    <li>Task</li>
+    <li> - Create different classes and Arraylist.</li>
+    <li> - Use boolean to move around a square and make movement smooth.</li>
+    <li> - Create floating objects and a collision.</li>
     <li>Task</li>
     <li>Task</li>
   </ul>
